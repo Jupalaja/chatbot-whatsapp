@@ -6,6 +6,9 @@
 #Static files
 *.png
 
+#Class files
+*.class.js
+
 # Bot sessions
 bot_sessions/
 
