@@ -1,2 +1,3 @@
-2023/07/30-17:57:12.910 6507 Creating DB /Users/juan/Documents/node/chatbot-whatsapp/tokens/bot/Default/File System/Origins since it was missing.
-2023/07/30-17:57:12.928 6507 Reusing MANIFEST /Users/juan/Documents/node/chatbot-whatsapp/tokens/bot/Default/File System/Origins/MANIFEST-000001
+2023/07/30-17:59:23.673 7e03 Reusing MANIFEST /Users/juan/Documents/node/chatbot-whatsapp/tokens/bot/Default/File System/Origins/MANIFEST-000001
+2023/07/30-17:59:23.673 7e03 Recovering log #3
+2023/07/30-17:59:23.673 7e03 Reusing old log /Users/juan/Documents/node/chatbot-whatsapp/tokens/bot/Default/File System/Origins/000003.log 
