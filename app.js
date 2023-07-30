@@ -5,7 +5,7 @@ const { createBot, createProvider, createFlow } = require('@bot-whatsapp/bot');
 const { Configuration, OpenAIApi } = require('openai');
 
 const QRPortalWeb = require('@bot-whatsapp/portal');
-const BaileysProvider = require('@bot-whatsapp/provider/baileys');
+const WPPConnectProviderClass = require('@bot-whatsapp/provider/wppconnect');
 const MockAdapter = require('@bot-whatsapp/database/mock');
 const ChatGPTClass = require('./chatgpt.class');
 
@@ -15,7 +15,7 @@ const createBotGPT = async ({ provider, database }) => {
 
 const main = async () => {
 	const adapterDB = new MockAdapter();
-	const adapterProvider = createProvider(BaileysProvider);
+	const adapterProvider = createProvider(WPPConnectProviderClass);
 
 	createBotGPT({
 		provider: adapterProvider,
