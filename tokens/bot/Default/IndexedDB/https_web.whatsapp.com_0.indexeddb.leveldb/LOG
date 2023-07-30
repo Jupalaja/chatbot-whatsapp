@@ -1,0 +1,6 @@
+2023/07/30-17:59:23.613 9603 Reusing MANIFEST /Users/juan/Documents/node/chatbot-whatsapp/tokens/bot/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/30-17:59:23.613 9603 Recovering log #4
+2023/07/30-17:59:23.670 9603 Reusing old log /Users/juan/Documents/node/chatbot-whatsapp/tokens/bot/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000004.log 
+2023/07/30-17:59:35.143 6b07 Level-0 table #8: started
+2023/07/30-17:59:35.174 6b07 Level-0 table #8: 1104389 bytes OK
+2023/07/30-17:59:35.194 6b07 Delete type=0 #4
