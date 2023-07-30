@@ -2,8 +2,6 @@ require('dotenv').config();
 
 const { createBot, createProvider, createFlow } = require('@bot-whatsapp/bot');
 
-const { Configuration, OpenAIApi } = require('openai');
-
 const QRPortalWeb = require('@bot-whatsapp/portal');
 const WPPConnectProviderClass = require('@bot-whatsapp/provider/wppconnect');
 const MockAdapter = require('@bot-whatsapp/database/mock');
