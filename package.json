@@ -1,10 +1,9 @@
 {
-    "name": "base-bailey-memory",
+    "name": "base-wppconnect-memory",
     "version": "1.0.0",
     "description": "",
     "main": "app.js",
     "scripts": {
-        "pre-copy": "cd .. && npm run  copy.lib base-baileys-memory",
         "start": "node app.js"
     },
     "keywords": [],
