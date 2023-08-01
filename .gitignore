@@ -6,6 +6,10 @@
 #Static files
 *.png
 
+
+# Tokens folder
+tokens/
+
 # Bot sessions
 bot_sessions/
 

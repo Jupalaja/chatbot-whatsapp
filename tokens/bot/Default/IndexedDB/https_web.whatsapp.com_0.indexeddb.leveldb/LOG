@@ -1,3 +1,18 @@
-2023/07/30-18:13:14.830 7f03 Reusing MANIFEST /Users/juan/Documents/node/chatbot-whatsapp/tokens/bot/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/07/30-18:13:14.830 7f03 Recovering log #7
-2023/07/30-18:13:14.838 7f03 Reusing old log /Users/juan/Documents/node/chatbot-whatsapp/tokens/bot/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000007.log 
+2023/07/30-18:47:25.201 9003 Reusing MANIFEST /Users/juan/Documents/node/chatbot-whatsapp/tokens/bot/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/30-18:47:25.201 9003 Recovering log #7
+2023/07/30-18:47:25.223 9003 Reusing old log /Users/juan/Documents/node/chatbot-whatsapp/tokens/bot/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000007.log 
+2023/07/30-18:48:08.148 9607 Compacting 1@1 + 1@2 files
+2023/07/30-18:48:08.168 9607 Generated table #10@1: 12027 keys, 483887 bytes
+2023/07/30-18:48:08.168 9607 Compacted 1@1 + 1@2 files => 483887 bytes
+2023/07/30-18:48:08.179 9607 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/30-18:48:08.180 9607 Delete type=2 #5
+2023/07/30-18:48:08.180 9607 Delete type=2 #8
+2023/07/31-03:26:46.010 9003 Level-0 table #12: started
+2023/07/31-03:26:46.046 9003 Level-0 table #12: 1149123 bytes OK
+2023/07/31-03:26:46.066 9003 Delete type=0 #7
+2023/07/31-03:34:15.990 9003 Compacting 1@1 + 1@2 files
+2023/07/31-03:34:16.024 9003 Generated table #13@1: 21021 keys, 816326 bytes
+2023/07/31-03:34:16.024 9003 Compacted 1@1 + 1@2 files => 816326 bytes
+2023/07/31-03:34:16.039 9003 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/31-03:34:16.039 9003 Delete type=2 #12
+2023/07/31-03:34:16.039 9003 Delete type=2 #10
